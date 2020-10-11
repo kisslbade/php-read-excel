@@ -1,0 +1,3 @@
+该代码的组成功能基于composer安装的phpspreadsheet的类库，需要高版本的php环境。
+用XAMPP进行简单构造php，就可
+代码借鉴于https://www.webslesson.info/2020/03/phpspreadsheet-beginner-tutorial.html
